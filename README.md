@@ -1,2 +1,3 @@
-# AdventJS
-Retos Programación Javascript | https://adventjs.dev/es
+AdventJavaScript Logo
+Retos y regalos de programación navideños{/}©
+¡Cada día, un nuevo reto de programación y un sorteo!
