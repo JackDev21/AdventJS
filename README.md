@@ -8,8 +8,8 @@
 | Dia       | Nombre                              | Dificultad | Ejercicio en codigo                                       |
 | --------- | ----------------------------------- | ---------- | --------------------------------------------------------- |
 | Reto #01: | **¡Primer regalo repetido!**        | 🟢          | https://github.com/JackDev21/AdventJS/blob/main/Dia_01.js |
-| Reto #02: | **Ponemos en marcha la fabrica**    | 🟢          | [Spoiler #02]()                                           |
-| Reto #03: | **El elfo travieso**                | 🟢          | [Spoiler #03]()                                           |
+| Reto #02: | **Ponemos en marcha la fabrica**    | 🟢          | https://github.com/JackDev21/AdventJS/blob/main/Dia_02.js |
+| Reto #03: | **El elfo travieso**                | 🟢          | https://github.com/JackDev21/AdventJS/blob/main/Dia_03.js |
 | Reto #04: | **Dale la vuelta a los parentesis** | 🟡          | [Spoiler #04]()                                           |
 | Reto #05: | **El CyberTruck de Santa**          | 🟡          | [Spoiler #05]()                                           |
 | Reto #06: | **Los renos a prueba**              | 🟢          | [Spoiler #06]()                                           |
