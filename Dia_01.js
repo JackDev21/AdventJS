@@ -26,19 +26,19 @@ const giftIds = [2, 1, 3, 5, 3, 2];
 
 // La función findFirstRepeated toma un arreglo de regalos como argumento
 function findFirstRepeated(gifts) {
-    // Se crea un nuevo Set llamado "seen" para almacenar los valores únicos que se han visto hasta el momento
-    const seen = new Set();
+    // Se crea un nuevo Set llamado "numeroVisto" para almacenar los valores únicos que se han visto hasta el momento
+    const numeroVisto = new Set();
 
     // Se recorre el arreglo de regalos
     for (const id of gifts) {
-        // Si el valor actual ya ha sido visto antes (es decir, está en el Set "seen"),
+        // Si el valor actual ya ha sido visto antes (es decir, está en el Set "numeroVisto"),
         // se devuelve ese valor ya que es el primer valor repetido encontrado
-        if (seen.has(id)) {
+        if (numeroVisto.has(id)) {
             return id;
         }
 
-        // Si el valor actual no ha sido visto antes, se agrega al Set "seen"
-        seen.add(id);
+        // Si el valor actual no ha sido visto antes, se agrega al Set "numeroVisto"
+        numeroVisto.add(id);
     }
 
     // Si no se encuentra ningún valor repetido, se devuelve -1
