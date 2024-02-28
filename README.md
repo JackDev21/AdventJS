@@ -11,7 +11,7 @@
 | Reto #02: | **Ponemos en marcha la fabrica**    | 🟢          | https://github.com/JackDev21/AdventJS/blob/main/Dia_02.js |
 | Reto #03: | **El elfo travieso**                | 🟢          | https://github.com/JackDev21/AdventJS/blob/main/Dia_03.js |
 | Reto #04: | **Dale la vuelta a los parentesis** | 🟡          | https://github.com/JackDev21/AdventJS/blob/main/Dia_04.js |
-| Reto #05: | **El CyberTruck de Santa**          | 🟡          | [Spoiler #05]()                                           |
+| Reto #05: | **El CyberTruck de Santa**          | 🟡          | https://github.com/JackDev21/AdventJS/blob/main/Dia_05.js |
 | Reto #06: | **Los renos a prueba**              | 🟢          | [Spoiler #06]()                                           |
 | Reto #07: | **Las cajas en 3D**                 | 🟢          | [Spoiler #07]()                                           |
 | Reto #08: | **Ordenando el almacén**            | 🟡          | [Spoiler #08]()                                           |
